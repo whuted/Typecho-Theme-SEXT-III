@@ -1,12 +1,7 @@
 # Typecho-Theme-SEXT-III
 Beautiful, powerful and user-friendly typecho theme by Ted Lin.
 
-![FireShot.jpg][1]
-
-主题预览地址：**[http://tedl.in/sext][2]**
-
-
-----------
+主题预览地址：**[http://tedl.in/sext][1]**
 
 
 ## 在 Sext-II 基础上的新变化 ##
@@ -18,8 +13,6 @@ Beautiful, powerful and user-friendly typecho theme by Ted Lin.
 **功能添加**：加入了评论回复功能、界面访问量统计功能。并利用插件的整合，实现提供手机端的全新界面。
 
 
-----------
-
 
 ## 独立页面 ##
 
@@ -27,7 +20,6 @@ Beautiful, powerful and user-friendly typecho theme by Ted Lin.
 **标签(Tags)** 对应标签云：显示博客所有标签
 
 
-----------
 
 ## 注意事项 ##
 
@@ -36,14 +28,10 @@ Beautiful, powerful and user-friendly typecho theme by Ted Lin.
  3. 主题需要在文章页面调用作者名称，因此需要在后台设置-管理-用户，为您的admin账户设置昵称。同时，主题需要调用页面访问量，TePostViews插件需要安装才能保证正常计数与前台显示。
  4. **2016/07/02最新更新：安装WapGenerate插件（原名BufannaoWAP插件），可以与本主题实现无缝连接，自动为手机端的浏览用户提供简洁的手机端浏览界面，解决本主题不支持手机端自适应的问题。**在原插件的基础上，进行了字体、界面、图片显示、配色、界面功能等的诸多优化和改进。同时，UC浏览器、Safari浏览器在内的多款浏览器均对网站支持“阅读视图”的功能。iPhone端UC浏览器显示效果如下：
 
-![WAP.jpg][3]
-
 
 ----------
 
-在使用时遇到任何的问题，欢迎随时在本页面下方反馈，我将及时回复你的信息并对主题做出相应的修改！**目前本站正在使用的 SIMPLEONE 1.1 主题为自用主题，暂时不提供免费下载。未来将有可能开源下载或者提供付费下载服务，敬请期待。**
+在使用时遇到任何的问题，欢迎随时在 http://tedl.in/Theme.html 下方反馈，我将及时回复你的信息并对主题做出相应的修改！**目前本站正在使用的 SIMPLEONE 1.1 主题为自用主题，暂时不提供免费下载。未来将有可能开源下载或者提供付费下载服务，敬请期待。**
 
 
-  [1]: http://tedl.in/usr/uploads/2016/06/408000530.jpg
-  [2]: http://tedl.in/sext
-  [3]: http://tedl.in/usr/uploads/2016/07/3606890488.jpg
+  [1]: http://tedl.in/sext
