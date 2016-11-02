@@ -1,0 +1,69 @@
+/* ------------------------------------
+ * Sext ii
+ * --------------------------------- */
+
+body{font-size:14px;font-family:'Helvetica Neue', Helvetica, Microsoft yahei;color:#000000;background-color:#ffffff;}
+*{padding:0;margin: 0;border:none;outline:none;}
+a{color:#dd0000;text-decoration:none;}
+a:hover{color:#333333;text-decoration:underline;}
+hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
+p{padding:.7em 0;}
+li{padding:.2em 0;}
+ol,ul{list-style-position:inside;}
+pre code{margin:1em 0;font-size:13px;font-family:'Helvetica Neue', Helvetica,Microsoft yahei;line-height:1.6;display:block;overflow:auto;}
+blockquote{display:block;text-align:justify;border-left:4px solid #ed282d;}
+blockquote{margin:1em 0em;padding-left:1.5em;}
+blockquote p{margin:0;padding:0;}
+#container{width:600px;margin:2em auto;display:block;padding:0 2em;}
+.content{font-size:16px;line-height:240%;font-weight: 400;}
+strong, b {font-weight: 600;}
+.content img{max-width:600px;display:block;margin:4px auto;}
+#tag_cloud{margin-bottom: 1em;}
+#tag_cloud a:hover{color:#333333 !important;text-decoration:none;}
+.listing-item,.listing-seperator{list-style-type:none;}
+.listing-item a{padding:.2em 1em;}
+.listing-item time{color:#999999;}
+.listing-seperator{font-weight:bold;}
+.meta{text-align:right;font-size:12px;}
+header{padding:.5em 0;border-bottom: 0 solid #cccccc;}
+nav{font-family:'Helvetica Neue', Helvetica, Microsoft yahei;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em; width:9em;}
+nav a{display:block;padding:.7em 1em;color:#000000;}
+nav a:hover{background-color:#ff0000;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+#copy{display:block; font-family:'Helvetica Neue', Helvetica, Microsoft yahei; font-size: .9em; text-align: center;margin-top: 2em; color: #909090;line-height:240%;}
+#copy a{color: #909090; text-decoration: underline;}
+.post{padding:1em 0em;}
+h1{font-family:'Helvetica Neue', Helvetica,Microsoft yahei;font-size:20px;color:#000;line-height:240%;margin-bottom: 5px;font-weight: 600;}
+h2{font-family:'Helvetica Neue', Helvetica, Microsoft yahei;font-size:18px;color:#111;line-height:260%;font-weight: 600;}
+h3{font-family:'Helvetica Neue', Helvetica, Microsoft yahei;font-size:17px;color:#222;line-height:260%;font-weight: 600;}
+h4{font-family:'Helvetica Neue', Helvetica,Microsoft yahei;font-size:16px;color:#333;line-height:260%;font-weight: 600;}
+h5{font-family:'Helvetica Neue', Helvetica,Microsoft yahei;font-size:0.875em;color:#999;line-height:260%;font-weight: 300;}
+#comments{padding-bottom: 10px;}
+.comment-list{list-style: none;}
+.comment-list p a{color: #B4461F;}
+.comment-list p a:hover{text-decoration: underline;}
+.comment-list li{margin: 0 0 25px;padding-bottom: 5px;border-bottom: 1px dashed #999;}
+.comment-children {margin-left: 20px;border-left: 2px solid #999;padding-left: 20px;}
+.comment-children li {padding-top: 25px;border-top: 1px dashed #999;border-bottom: none;}
+.avatar {float: right;margin: 5px 0 10px 10px;}
+.comment-author cite {font-weight: bold;font-style: normal;font-family:'Helvetica Neue', Helvetica,Microsoft yahei;}
+.comment-author cite:after {content:'';/*font-size: 12px;*/font-weight: normal;}
+.comment-meta {margin-bottom: 10px;font-family:'Helvetica Neue', Helvetica, Microsoft yahei;font-size: 12px;}
+.comment-meta a {font-weight: normal;color: #888;}
+.comment-reply {display: block;margin: 0 0 25px;font-size: 12px;}
+.comment-reply a {border: 1px solid #DDD;padding: 2px 10px;-moz-border-radius: 15px;-webkit-border-radius: 15px;}
+#comment-form {}
+#comment-form label {display: block;margin-bottom: 5px;font-weight: bold;}
+.comment-cloumn {float: left;width: 33%;}
+input.text,#comment-form textarea {border: 1px solid #BBB;padding: 5px;-moz-border-radius: 3px;-webkit-border-radius: 3px;}
+input.text:focus,#comment-form textarea:focus {border: 1px solid #999;-moz-box-shadow: 0 0 3px #999;}
+input.text {width:90%;}
+#comment-form textarea {width:98%;overflow:auto;}
+.submit-up{font-family:'Helvetica Neue', Helvetica, Microsoft yahei;font-size:1.1em; display: block; position: relative; background: #aaa; padding: 5px;  color: #fff; text-decoration: none; cursor: pointer; }
+.submit-up.pink{background: #333333;}
+.submit-up:hover{background-color: #a00; }
+.submit-up:active{background-color: #444; }
+#cancel-comment-reply-link {margin-left: 10px;color: #090;}
+#pageNav{text-align:center;height:30px;position:relative;}
+.page-navigator li{display:block;float:left;width:20px;margin-right:6px;}
+.page-navigator li a{display:block;float:left;width:20px;text-decoration:none;color:#666;}
+.page-navigator .current a{color:#f9f9f9;background:#dd0000;-moz-border-radius:10px;-webkit-border-radius:10px;}
